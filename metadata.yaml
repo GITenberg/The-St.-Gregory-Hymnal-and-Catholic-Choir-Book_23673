@@ -1,0 +1,33 @@
+_repo: The-St.-Gregory-Hymnal-and-Catholic-Choir-Book_23673
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Montani, Nicola A. (Nicola Aloysius)
+    aliases:
+    - Montani, Nicola Aloysius
+    - Montani, N. A. (Nicola Aloysius)
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '25983'
+    url: http://www.gutenberg.org/2009/agents/25983
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2007-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hymns, English'
+- !lcsh 'Catholic Church -- Hymns'
+- !lcc 'M'
+- !lcsh 'Service books (Music) -- Catholic Church'
+- !lcsh 'Hymns, Latin'
+title: The St. Gregory Hymnal and Catholic Choir Book
+url: http://www.gutenberg.org/ebooks/23673
